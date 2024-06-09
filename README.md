@@ -1,5 +1,11 @@
 ## Escola de Photodesign
 ### Aprenda GIMP e + SLs
+> Linux <br>
+> GIMP <br>
+> Inkscape <br>
+> Blender <br>
+> Darktable <br>
+> Digikam
 <!--
 **phenrypereira/phenrypereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
