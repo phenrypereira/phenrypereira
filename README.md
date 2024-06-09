@@ -1,6 +1,6 @@
 ## Escola de Photodesign
 ### Aprenda GIMP e + SLs
-<img src="URL_da_imagem" alt="Descrição da imagem">
+<img src="image.png" alt="Conheça a minha persona">
 > Linux 🐧 <br>
 > GIMP 🐐 <br>
 > Inkscape <br>
