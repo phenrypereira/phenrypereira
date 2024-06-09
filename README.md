@@ -1,7 +1,7 @@
 ## Escola de Photodesign
 ### Aprenda GIMP e + SLs
-> Linux <br>
-> GIMP <br>
+> Linux 🐧 <br>
+> GIMP 🐐 <br>
 > Inkscape <br>
 > Blender <br>
 > Darktable <br>
