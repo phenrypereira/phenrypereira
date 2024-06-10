@@ -13,16 +13,3 @@
 ><img src="libre_office_logo_v1.png" width="45"> Libre Office
 ><img src="7-Zip_v1.png" width="45"> 7-Zip
 <!--
-**phenrypereira/phenrypereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Blender
-- 👯 Conte comigo para aprender design veorial/raster e fotografia
-- 🤔 I’m looking for help with modelagem 3D
-- 💬 Ask me about ...
-- 📫 How to reach me: linktr.ee/phenrypereira
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
--->
