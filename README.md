@@ -2,16 +2,16 @@
 ### Aprenda GIMP e + SLs
 <img src="image.png" alt="Conheça a minha persona">
 ### Tecnologias Favoritas.
-><img src="windows.png" width="50"> Windows 
-><img src="tux.png" width="50"> Linux
-><img src="KDE neon.png" width="50"> KDE neon
-><img src="python.png" width="50">Python 
-><img src="sql.png" width="45"> SQL
-><img src="git.png" width="45"> Git
-><img src="obs.png" width="45"> OBS
-><img src="gimp.png" width="45"> Gimp<br>
-><img src="libre_office_logo.png" width="45"> Libre Office
-><img src="7-Zip.png" width="45"> 7-Zip
+><img src="windows_v1.png" width="50"> Windows 
+><img src="tux_v1.png" width="50"> Linux
+><img src="KDE neon_v1.png" width="50"> KDE neon
+><img src="python_v1.png" width="50">Python 
+><img src="sql_v1.png" width="45"> SQL
+><img src="git_v1.png" width="45"> Git
+><img src="obs_v1.png" width="45"> OBS
+><img src="gimp_v1.png" width="45"> Gimp<br>
+><img src="libre_office_logo_v1.png" width="45"> Libre Office
+><img src="7-Zip_v1.png" width="45"> 7-Zip
 <!--
 **phenrypereira/phenrypereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
